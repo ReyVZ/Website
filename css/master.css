@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #444444;
+  background: #eeeeff;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+}
+
+h1{
+  text-shadow: 2px 2px 3px gray;
+}
+
+.wrap {
+  float: left;
+  width: 70%;
+  background: #ddddff;
+}
+
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  width: 48%;
+  height: 60%;
+}
+
+img {
+  width: 60%;
+}
+
+input {
+  background: #aaaaff;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.rating {
+  float: right;
+  width: 29%;
+  background: #ddddff;
+}
+
+.ladder {
+  width: 98%;
+}
+
+.ladder img {
+  width: 20%;
+}
